@@ -1,0 +1,1 @@
+模拟I2C，将引脚配置为通用IO口，在hal_temphum里改
